@@ -1,6 +1,6 @@
 return {
     ["KEY_IbnBattuta"] = {
-        users = {6476, 12345}, -- allowed UserIds
+        users = {4973264831}, -- allowed UserIds
         revoked = false,
         pin = "67"
     }
